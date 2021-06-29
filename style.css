@@ -2027,6 +2027,11 @@ form textarea {
   float: left;
   margin-bottom: 60px;
 }
+#branding img {
+  width: 80px;
+  height: auto;
+  border-radius: 100%;
+}
 #branding .logo, #branding .logo-text {
   display: inline-block;
   vertical-align: middle;
